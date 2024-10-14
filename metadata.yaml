@@ -1,0 +1,36 @@
+_repo: Troijan-Helena-yksityiselamassaan_74505
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tuomikoski, Aino
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '43887'
+    url: http://www.gutenberg.org/2009/agents/43887
+    wikipedia: https://fi.wikipedia.org/wiki/Aino_Tuomikoski
+creator:
+  author:
+    agent_name: Erskine, John
+    birthdate: 1879
+    deathdate: 1951
+    gutenberg_agent_id: '39535'
+    url: http://www.gutenberg.org/2009/agents/39535
+    wikipedia: https://en.wikipedia.org/wiki/John_Erskine_(educator)
+description: ''
+gutenberg_issued: '2024-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74505'
+language: fi
+pgterms:marc905: 20240813044601erskine
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Troijan Helena yksityiselämässään
+url: http://www.gutenberg.org/ebooks/74505
